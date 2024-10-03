@@ -17,8 +17,8 @@ y = pd.Series(california_housing.target, name='MedHouseVal')
 housing = X
 
 # Set up Streamlit page
-st.set_page_config(page_title="DN Housing Predictor", page_icon="🏠", layout="wide", initial_sidebar_state="expanded")
-st.title("Housing Price Prediction 🏠")
+st.set_page_config(page_title="Housing Predictor", page_icon="🏠", layout="wide", initial_sidebar_state="expanded")
+st.title("Chris' Price Prediction")
 st.write('Use the sliders on the left to make the housing prediction.')
 st.write('---')
 
