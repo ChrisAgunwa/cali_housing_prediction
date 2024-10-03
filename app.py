@@ -18,7 +18,7 @@ housing = X
 
 # Set up Streamlit page
 st.set_page_config(page_title="Housing Predictor", page_icon="🏠", layout="wide", initial_sidebar_state="expanded")
-st.title("Chris' Price Prediction")
+st.title("California House Price Prediction")
 st.write('Use the sliders on the left to make the housing prediction.')
 st.write('---')
 
