@@ -30,6 +30,8 @@ The primary objective of this project is to build a machine learning model capab
   
 - **Deployment**: The final model is deployed using Streamlit, a framework that allows for the creation of interactive web applications with ease. Users can input various features like average income, number of rooms, and house age to predict house prices in real-time.
 
+[View the live demo](https://calihousingprediction-7eigh7eucq4jayq4zbxaru.streamlit.app/)
+
 ## Installation
 
 To run this project, follow these steps:
